@@ -1,0 +1,2 @@
+jpabook/jpashop/JpashopApplicationTests.java
+ jpabook.jpashop.JpashopApplicationTests
